@@ -1,6 +1,6 @@
 # Inventory-Management-System
 
-Overview
+
 This project implements a relational database for managing inventory using SQL. The database is designed to handle products, suppliers, categories, warehouses, and stock tracking efficiently.
 
 Database Schema
